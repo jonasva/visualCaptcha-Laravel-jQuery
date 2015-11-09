@@ -26,7 +26,7 @@ VisualCaptcha is the easiest to implement secure Captcha with images instead of 
 ```js
 {
     "require": {
-		"hugocabral/visualcaptcha-laravel-jquery": "~1.0"
+		"hugocabral/visualcaptcha-laravel-jquery": "dev-master"
 	}
 }
 ```
