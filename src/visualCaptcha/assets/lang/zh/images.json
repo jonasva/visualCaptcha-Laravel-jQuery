@@ -1,150 +1,150 @@
 [
     {
-        "name": "het Vliegtuig",
+        "name": "飞机",
         "path": "airplane.png"
     },
     {
-        "name": "de Ballonnen",
+        "name": "气球",
         "path": "balloons.png"
     },
     {
-        "name": "de Camera",
+        "name": "相机",
         "path": "camera.png"
     },
     {
-        "name": "de Auto",
-        "path": "car.png"
+        "name": "车",
+        "path": "car.png" 
     },
     {
-        "name": "de Kat",
+        "name": "猫",
         "path": "cat.png"
     },
     {
-        "name": "de Stoel",
+        "name": "椅子",
         "path": "chair.png"
     },
     {
-        "name": "de Papierklem",
+        "name": "夹子",
         "path": "clip.png"
     },
     {
-        "name": "de Klok",
+        "name": "钟",
         "path": "clock.png"
     },
     {
-        "name": "de Wolk",
+        "name": "云",
         "path": "cloud.png"
     },
     {
-        "name": "de Computer",
+        "name": "电脑",
         "path": "computer.png"
     },
     {
-        "name": "de Omslag",
+        "name": "信封",
         "path": "envelope.png"
     },
     {
-        "name": "het Oog",
+        "name": "眼睛",
         "path": "eye.png"
     },
     {
-        "name": "de Vlag",
+        "name": "旗子",
         "path": "flag.png"
     },
     {
-        "name": "de Map",
+        "name": "文件夹",
         "path": "folder.png"
     },
     {
-        "name": "de Voet",
+        "name": "脚",
         "path": "foot.png"
     },
     {
-        "name": "de Grafiek",
+        "name": "图表",
         "path": "graph.png"
     },
     {
-        "name": "het Huis",
+        "name": "房子",
         "path": "house.png"
     },
     {
-        "name": "de Sleutel",
+        "name": "钥匙",
         "path": "key.png"
     },
     {
-        "name": "het Blad",
+        "name": "叶子",
         "path": "leaf.png"
     },
     {
-        "name": "de Gloeilamp",
+        "name": "灯泡",
         "path": "light-bulb.png"
     },
     {
-        "name": "het Slot",
+        "name": "锁",
         "path": "lock.png"
     },
     {
-        "name": "het Vergrootglas",
+        "name": "放大镜",
         "path": "magnifying-glass.png"
     },
     {
-        "name": "de Man",
+        "name": "男人",
         "path": "man.png"
     },
     {
-        "name": "de Muzieknoot",
+        "name": "乐谱",
         "path": "music-note.png"
     },
     {
-        "name": "de Broek",
+        "name": "裤子",
         "path": "pants.png"
     },
     {
-        "name": "het Potlood",
+        "name": "铅笔",
         "path": "pencil.png"
     },
     {
-        "name": "de Printer",
+        "name": "打印机",
         "path": "printer.png"
     },
     {
-        "name": "de Robot",
+        "name": "机器人",
         "path": "robot.png"
     },
     {
-        "name": "de Schaar",
+        "name": "剪刀",
         "path": "scissors.png"
     },
     {
-        "name": "de Zonnebril",
+        "name": "墨镜",
         "path": "sunglasses.png"
     },
     {
-        "name": "de Tag",
+        "name": "标签",
         "path": "tag.png"
     },
     {
-        "name": "de Boom",
+        "name": "树",
         "path": "tree.png"
     },
     {
-        "name": "de Truck",
+        "name": "卡车",
         "path": "truck.png"
     },
     {
-        "name": "de T-Shirt",
+        "name": "T恤 ",
         "path": "t-shirt.png"
     },
     {
-        "name": "de Paraplu",
+        "name": "雨伞",
         "path": "umbrella.png"
     },
     {
-        "name": "de Vrouw",
+        "name": "女人",
         "path": "woman.png"
     },
     {
-        "name": "de Wereld",
+        "name": "世界",
         "path": "world.png"
     }
 ]
