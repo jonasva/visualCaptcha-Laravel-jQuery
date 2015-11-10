@@ -46,6 +46,10 @@ class Captcha {
         if ( ! $defaultImages || count( $defaultImages ) == 0 ) {
 
             $defaultImages = $this->utilReadJSON( $this->assetsPath .'/lang/' . Config::get('app.locale') . '/images.json' );
+
+            if (is_null($defaultImages)) {
+                $defaultImages = $this->utilReadJSON( $this->assetsPath .'/lang/' . Config::get('app.fallback_locale') . '/images.json' );
+            }
         }
 
         // If there are no defaultAudios, get them from ./audios.json
